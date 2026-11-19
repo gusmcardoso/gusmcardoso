@@ -36,10 +36,6 @@ do banco de dados ao deploy.
 | Projeto | O que é | Stack |
 | --- | --- | --- |
 | [**portfolio**](https://github.com/gusmcardoso/portfolio) | Meu site pessoal, com pipeline de CI/CD: validação, build, teste do container, publicação e deploy | HTML · CSS · JS · Docker · GitHub Actions |
-| [**rodokarlla-tema**](https://github.com/gusmcardoso/rodokarlla-tema) | Tema WordPress sob medida para uma transportadora do agronegócio | WordPress · PHP · JS |
-| [**sistema-fiscal-inteligente**](https://github.com/gusmcardoso/sistema-fiscal-inteligente) | Gestão de clientes, produtos e notas fiscais | Python (Flask) · React |
-| [**Gerenciador-Noticias**](https://github.com/gusmcardoso/Gerenciador-Noticias) | Gerenciador de notícias multiusuário com editor rico, tags e filtros | Laravel |
-| [**locateli**](https://github.com/gusmcardoso/locateli) | Landing page institucional recriada em Laravel | Laravel 12 · Vite |
 
 Boa parte do meu trabalho é para clientes e fica em repositórios privados.
 Alguns desses projetos, como um sistema de gestão para arenas de beach tennis e um ERP com PDV para loja agropecuária, estão descritos no [portfólio](https://portfolio-lime-ten-e15950afw3.vercel.app).
