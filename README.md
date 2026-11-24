@@ -7,7 +7,7 @@
 Construo sistemas web, sites e a infraestrutura que mantém tudo no ar,<br>
 do banco de dados ao deploy.
 
-[**Portfólio**](https://portfolio-lime-ten-e15950afw3.vercel.app) ·
+[**Portfólio**](https://gustavom.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/gustavomartinsc) ·
 [E-mail](mailto:gustavo@rodokarlla.com.br)
 
@@ -38,4 +38,4 @@ do banco de dados ao deploy.
 | [**portfolio**](https://github.com/gusmcardoso/portfolio) | Meu site pessoal, com pipeline de CI/CD: validação, build, teste do container, publicação e deploy | HTML · CSS · JS · Docker · GitHub Actions |
 
 Boa parte do meu trabalho é para clientes e fica em repositórios privados.
-Alguns desses projetos, como um sistema de gestão para arenas de beach tennis e um ERP com PDV para loja agropecuária, estão descritos no [portfólio](https://portfolio-lime-ten-e15950afw3.vercel.app).
+Alguns desses projetos, como um sistema de gestão para arenas de beach tennis e um ERP com PDV para loja agropecuária, estão descritos no [portfólio](https://gustavom.vercel.app).
