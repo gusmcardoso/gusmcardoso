@@ -549,9 +549,11 @@ function projeto(r) {
   );
   inner += pixelText(r.name, 118, 26, 3, P.orange).svg;
   const desc = (r.description || DESCRICOES[r.name] || 'ver projeto').trim();
-  const lines = desc.length > 50 ? [desc.slice(0, desc.lastIndexOf(' ', 50)), desc.slice(desc.lastIndexOf(' ', 50) + 1, 96)] : [desc];
+  // quebra em até 2 linhas que cabem no card (~42 caracteres cada)
+  const cut = desc.lastIndexOf(' ', 42);
+  const lines = desc.length > 42 && cut > 0 ? [desc.slice(0, cut), desc.slice(cut + 1)] : [desc];
   lines.forEach((l, k) => {
-    inner += `<text x="118" y="${62 + k * 15}" fill="${P.text}" font-family="ui-monospace,Consolas,monospace" font-size="11.5">${esc(l.length > 52 ? `${l.slice(0, 51)}…` : l)}</text>`;
+    inner += `<text x="118" y="${62 + k * 15}" fill="${P.text}" font-family="ui-monospace,Consolas,monospace" font-size="11.5">${esc(l.length > 44 ? `${l.slice(0, 43)}…` : l)}</text>`;
   });
   const when = new Date(r.pushed_at).toLocaleDateString('pt-BR', { day: '2-digit', month: 'short', timeZone: TZ }).replace('.', '');
   inner += `<text x="118" y="102" fill="${P.muted}" font-family="ui-monospace,Consolas,monospace" font-size="11">${esc(r.language ?? '—')} · ★ ${r.stargazers_count} · ${esc(when)}</text>`;
