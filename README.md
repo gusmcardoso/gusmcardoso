@@ -1,41 +1,30 @@
 <div align="center">
-
-<img src="assets/banner.svg" alt="{gm} gustavo martins" width="100%">
-
-### Analista de sistemas · fullstack &amp; DevOps · Porto Nacional/TO
-
-Construo sistemas web, sites e a infraestrutura que mantém tudo no ar,<br>
-do banco de dados ao deploy.
-
-[**Portfólio**](https://gustavom.vercel.app) ·
-[LinkedIn](https://www.linkedin.com/in/gustavomartinsc) ·
-[E-mail](mailto:gustavo@rodokarlla.com.br)
-
+  <img src="assets/sala.svg" alt="Sala em pixel art: estante com a minha stack, janela com a Catedral de Porto Nacional e o Rio Tocantins com o clima e a hora de agora, rack com os sites monitorados pelo Uivo e a mesa com o terminal." width="100%" />
 </div>
 
-<br>
+<br />
 
-## `> stack`
+<img src="assets/cabecalho.svg" alt="Gustavo Martins: analista de sistemas, fullstack e DevOps, Porto Nacional/TO. Stack: PHP, Laravel, TypeScript, React, Docker, GitHub Actions." width="100%" />
 
-![PHP](https://img.shields.io/badge/PHP-0A0B08?style=flat-square&logo=php&logoColor=A3B565)
-![Laravel](https://img.shields.io/badge/Laravel-0A0B08?style=flat-square&logo=laravel&logoColor=A3B565)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0B08?style=flat-square&logo=typescript&logoColor=A3B565)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0B08?style=flat-square&logo=javascript&logoColor=A3B565)
-![Node.js](https://img.shields.io/badge/Node.js-0A0B08?style=flat-square&logo=nodedotjs&logoColor=A3B565)
-![Python](https://img.shields.io/badge/Python-0A0B08?style=flat-square&logo=python&logoColor=A3B565)
-![React](https://img.shields.io/badge/React-0A0B08?style=flat-square&logo=react&logoColor=A3B565)
-![WordPress](https://img.shields.io/badge/WordPress-0A0B08?style=flat-square&logo=wordpress&logoColor=A3B565)
-<br>
-![Docker](https://img.shields.io/badge/Docker-0A0B08?style=flat-square&logo=docker&logoColor=A3B565)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0B08?style=flat-square&logo=githubactions&logoColor=A3B565)
-![Nginx](https://img.shields.io/badge/Nginx-0A0B08?style=flat-square&logo=nginx&logoColor=A3B565)
-![Power BI](https://img.shields.io/badge/Power_BI-0A0B08?style=flat-square&logo=powerbi&logoColor=A3B565)
+Construo sistemas web, sites e a infraestrutura que mantém tudo no ar, do banco de dados ao deploy.
+Boa parte do trabalho é para clientes e fica em repositórios privados; os projetos estão descritos no [portfólio](https://gustavom.vercel.app).
 
-## `> projetos`
+<img src="assets/numeros.svg" alt="Números do ano no GitHub: contribuições, pull requests, sites no ar e maior sequência" width="100%" />
 
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [**portfolio**](https://github.com/gusmcardoso/portfolio) | Meu site pessoal, com pipeline de CI/CD: validação, build, teste do container, publicação e deploy | HTML · CSS · JS · Docker · GitHub Actions |
+### `>` projetos
 
-Boa parte do meu trabalho é para clientes e fica em repositórios privados.
-Alguns desses projetos, como um sistema de gestão para arenas de beach tennis e um ERP com PDV para loja agropecuária, estão descritos no [portfólio](https://gustavom.vercel.app).
+<!-- PROJETOS:INICIO -->
+<p align="left">
+  <a href="https://github.com/gusmcardoso/uivo"><img src="assets/projeto-uivo.svg" alt="uivo: Monitor de saúde de sites: uptime, SSL, domínio, segurança e relatório em PDF" width="49%" /></a>
+  <a href="https://github.com/gusmcardoso/portfolio"><img src="assets/projeto-portfolio.svg" alt="portfolio: Meu site pessoal, com CI/CD, container e deploy automático" width="49%" /></a>
+</p>
+<!-- PROJETOS:FIM -->
+
+<img src="assets/atividade.svg" alt="Atividade no GitHub: grade de contribuições do último ano e sequências" width="100%" />
+
+<p>
+  <a href="https://gustavom.vercel.app"><b>Portfólio</b></a> ·
+  <a href="https://www.linkedin.com/in/gustavomartinsc">LinkedIn</a> ·
+  <a href="mailto:gustavo@rodokarlla.com.br">E-mail</a> ·
+  <sub>sala atualizada a cada 4 h por GitHub Actions</sub>
+</p>
